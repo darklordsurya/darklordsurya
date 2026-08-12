@@ -1,21 +1,20 @@
-<!-- Header Banner (Opsional: Ganti link gambar dengan banner pixel art / JRPG favorit Anda) -->
+<!-- Header Banner: Replace this URL with your custom AI-generated JRPG landscape/pixel art -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/94/8b/63/948b63b2075a8946dc49f50689bcfddf.gif" alt="JRPG Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;"/>
+  <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=2000&auto=format&fit=crop" alt="AI Generated Fantasy Banner" width="100%" height="250" style="object-fit: cover; border-radius: 8px;"/>
 </p>
 
-<h1 align="center">⚔️ Welcome to the Adventurer's Guild ⚔️</h1>
+<h1 align="center">Welcome to the Adventurer's Guild</h1>
 
 <p align="center">
-  <em>"Seorang penjelajah kode yang menyeberangi lautan Backend, mendaki pegunungan Frontend, dan memanggil infrastruktur dari dimensi DevOps."</em>
+  <em>"A code wanderer navigating the oceans of the Backend, climbing the peaks of the Frontend, and summoning infrastructure from the DevOps dimensions."</em>
 </p>
 
 ---
 
-## 📜 ［ ＣＨＡＲＡＣＴＥＲ ＳＴＡＴＵＳ ］
+## <img src="https://api.iconify.design/lucide:user.svg?color=%23A855F7" width="24" align="center" /> ［ ＣＨＡＲＡＣＴＥＲ ＳＴＡＴＵＳ ］
 
 ```yaml
 Name        : Suryaman
 Class       : Omni-Class (Full Cycle Developer)
-Level       : 45
 Base Camp   : The Realm of Flower City
 Guild       : Suryacloud Network
