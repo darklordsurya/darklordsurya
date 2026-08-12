@@ -1,6 +1,6 @@
 <!-- Header Banner: Replace this URL with your custom AI-generated JRPG landscape/pixel art -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1P7eQ5lyJLxPgFwiDxb0n3sD3XzXR_u1h/view?usp=sharing" alt="Omni-Class JRPG Fantasy Banner" width="100%" height="250" style="object-fit: cover; border-radius: 8px;"/>
+  <img src="https://lh3.googleusercontent.com/d/1P7eQ5lyJLxPgFwiDxb0n3sD3XzXR_u1h" alt="Omni-Class JRPG Fantasy Banner" width="100%" height="250" style="object-fit: cover; border-radius: 8px;"/>
 </p>
 
 <h1 align="center">Welcome to the Adventurer's Guild</h1>
