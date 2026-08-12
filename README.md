@@ -1,16 +1,21 @@
-## Hi there 👋
+<!-- Header Banner (Opsional: Ganti link gambar dengan banner pixel art / JRPG favorit Anda) -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/94/8b/63/948b63b2075a8946dc49f50689bcfddf.gif" alt="JRPG Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;"/>
+</p>
 
-<!--
-**darklordsurya/darklordsurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">⚔️ Welcome to the Adventurer's Guild ⚔️</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>"Seorang penjelajah kode yang menyeberangi lautan Backend, mendaki pegunungan Frontend, dan memanggil infrastruktur dari dimensi DevOps."</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📜 ［ ＣＨＡＲＡＣＴＥＲ ＳＴＡＴＵＳ ］
+
+```yaml
+Name        : Suryaman
+Class       : Omni-Class (Full Cycle Developer)
+Level       : 45
+Base Camp   : The Realm of Flower City
+Guild       : Suryacloud Network
