@@ -1,6 +1,6 @@
 <!-- Header Banner: Replace this URL with your custom AI-generated JRPG landscape/pixel art -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=2000&auto=format&fit=crop" alt="AI Generated Fantasy Banner" width="100%" height="250" style="object-fit: cover; border-radius: 8px;"/>
+  <img src="https://generative-images.goog/image_0.png" alt="Omni-Class JRPG Fantasy Banner" width="100%" height="250" style="object-fit: cover; border-radius: 8px;"/>
 </p>
 
 <h1 align="center">Welcome to the Adventurer's Guild</h1>
